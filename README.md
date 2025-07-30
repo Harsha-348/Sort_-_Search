@@ -8,7 +8,7 @@
      5. -- 
         
 
----------------------------------------------------------------------( Bubble sort )--------------------------------------------------------
+-----------------------------------------------------------------( Bubble sort )------------------------------------------------------------
 
 # 1.Bubble sort
 - It is a simplest sorting algorithm in which it performs by comparing and swapping the adjacent elements in an array.
