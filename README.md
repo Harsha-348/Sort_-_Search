@@ -12,7 +12,7 @@
 
 # 1.Bubble sort
 - It is a simplest sorting algorithm in which it performs by comparing and swapping the adjacent elements in an array.
-- It is only suitable for small data sets and not for large data sets
+- It is only suitable for small data sets and not for large data sets.
 
 # Complexities:
  - Time complexity: O(n²)      - (nested loops usage)
