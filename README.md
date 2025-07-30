@@ -1,10 +1,16 @@
-# Sort_&_Search
+# Sorting & Searching
 
-# Sorts
+# Sorts: 
+     1.Bubble sort
+     2. --
+     3. --
+     4. -- 
+     5. -- 
+        
 
----------------------------------------------------------------------( Bubble sort )--------------------------------------------------------------
+---------------------------------------------------------------------( Bubble sort )----------------------------------------------------------
 
-# (Bubble sort)
+# 1.Bubble sort
 - It is a simplest sorting algorithm in which it performs by comparing and swapping the adjacent elements in an array.
 - It is only suitable for small data sets and not for large data sets
 
