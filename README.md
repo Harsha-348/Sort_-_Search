@@ -38,7 +38,11 @@ Returns the sorted array (though Bubble Sort is typically in-place, meaning it m
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------
 
+# Searching algorithms
+
+1. 
 
 
 
