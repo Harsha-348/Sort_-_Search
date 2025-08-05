@@ -1,6 +1,6 @@
 # Binary search
 
-def binarysearch(self, arr, k):
+def binarysearch(arr, k):
         
         low = 0
         high = len(arr) - 1
