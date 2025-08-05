@@ -63,7 +63,7 @@ There are two types in the searching algo:
      - Space complexity is O(1)
 
  
-----------------------------------------------------------------( Binary search )-----------------------------------------------
+-----------------------------------------------------( Binary search )--------------------------------------------
 
 - It is used on the sorted array.
 - It is fast than the linear search.
