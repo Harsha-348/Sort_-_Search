@@ -44,7 +44,7 @@ Returns the sorted array (though Bubble Sort is typically in-place, meaning it m
 
 
 
--------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------
 
 # Searching algorithms
 
@@ -53,7 +53,7 @@ There are two types in the searching algo:
                1. Linear search
                2. Binary search
                
-----------------------------------------------------------------( Linear search )----------------------------------------------
+-----------------------------------------------------( Linear search )------------------------------------------
 
 - It is mainly used on unsorted array.
 - It does one by one element comparision of the element with the given array elements.
@@ -67,7 +67,8 @@ There are two types in the searching algo:
 
 - It is used on the sorted array.
 - It is fast than the linear search.
-- In Binary search, we will find the middle element and divide array in to by lower and upper bounds till the element is found.
+- In Binary search, we will find the middle element and divide array in to by lower and upper bounds till
+  the element is found.
 
      - Time complexity is O(log n)
      - space complexity is O(1)
