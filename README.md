@@ -65,10 +65,10 @@ There are two types in the searching algo:
  
 -----------------------------------------------------( Binary search )--------------------------------------------
 
+- It is an optimised searching algorithm
 - It is used on the sorted array.
 - It is fast than the linear search.
-- In Binary search, we will find the middle element and divide array in to by lower and upper bounds till
-  the element is found.
+- In Binary search, we will find the middle element and divide array in to by lower and upper bounds.
 
      - Time complexity is O(log n)
      - space complexity is O(1)
