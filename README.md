@@ -8,7 +8,7 @@
      5. -- 
         
 
------------------------------------------------------------------( Bubble sort )------------------------------------------------------------
+-----------------------------------------------------------------( Bubble sort )------------------------------------------------
 
 # 1.Bubble sort
 - It is a simplest sorting algorithm in which it performs by comparing and swapping the adjacent elements in an array.
@@ -37,10 +37,10 @@ Returns the sorted array (though Bubble Sort is typically in-place, meaning it m
 
 
 
----------------------------------------------------------------------(  sort )--------------------------------------------------------------
----------------------------------------------------------------------(  sort )--------------------------------------------------------------
----------------------------------------------------------------------(  sort )--------------------------------------------------------------
----------------------------------------------------------------------(  sort )--------------------------------------------------------------
+---------------------------------------------------------------------(  sort )-------------------------------------------------
+---------------------------------------------------------------------(  sort )-------------------------------------------------
+---------------------------------------------------------------------(  sort )-------------------------------------------------
+---------------------------------------------------------------------(  sort )-------------------------------------------------
 
 
 
@@ -53,28 +53,26 @@ There are two types in the searching algo:
                1. Linear search
                2. Binary search
                
-----------------------------------------------------------------( Linear search )--------------------------------------------------------
+----------------------------------------------------------------( Linear search )----------------------------------------------
 
 - It is mainly used on unsorted array.
 - It does one by one element comparision of the element with the given array elements.
+- It is faster when the element is in the first or second index but what if the element is present at the end of the array.
 
-     - Time complexity is O(n).   
-     - Space complexity is O(1).
+     - Time complexity is O(n)   
+     - Space complexity is O(1)
 
  
+----------------------------------------------------------------( Binary search )-----------------------------------------------
+
+- It is used on the sorted array.
+- It is fast than the linear search.
+- In Binary search, we will find the middle element and divide array in to by lower and upper bounds till the element is found.
+
+     - Time complexity is O(log n)
+     - space complexity is O(1)
+ 
   
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
